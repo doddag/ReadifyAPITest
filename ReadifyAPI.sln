@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadifyAPI", "ReadifyAPI\ReadifyAPI.csproj", "{3F49369C-73EB-42E8-91CB-08BC6B5E1808}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadifyAPI.Tests", "ReadifyAPI.Tests\ReadifyAPI.Tests.csproj", "{ECD1212B-083B-4847-BE4C-28CE8215D30E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F49369C-73EB-42E8-91CB-08BC6B5E1808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F49369C-73EB-42E8-91CB-08BC6B5E1808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F49369C-73EB-42E8-91CB-08BC6B5E1808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F49369C-73EB-42E8-91CB-08BC6B5E1808}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECD1212B-083B-4847-BE4C-28CE8215D30E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD1212B-083B-4847-BE4C-28CE8215D30E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD1212B-083B-4847-BE4C-28CE8215D30E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD1212B-083B-4847-BE4C-28CE8215D30E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
